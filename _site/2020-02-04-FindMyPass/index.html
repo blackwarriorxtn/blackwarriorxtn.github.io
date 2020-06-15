@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <title>HackTM - FindMyPass</title>
+
+  <meta name="author" content="Amine Amiri" />
+
+  
+  <meta name="description" content="Dumping Kdbx db from Memory">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="└──╼ BlackWarriorXTN :~$ - just a typical blog" href="http://localhost:4000/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="HackTM - FindMyPass" />
+  
+
+   
+  <meta property="og:description" content="Dumping Kdbx db from Memory">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/2020-02-04-FindMyPass/" />
+  <link rel="canonical" href="http://localhost:4000/2020-02-04-FindMyPass/" />
+  
+
+  
+  <meta property="og:image" content="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="HackTM - FindMyPass" />
+  
+
+  
+  <meta name="twitter:description" content="Dumping Kdbx db from Memory">
+  
+
+  
+  <meta name="twitter:image" content="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><a class="navbar-brand" href="http://localhost:4000/">└──╼ BlackWarriorXTN :~$ <b class="blinking_cursor">_</b> </a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/aboutme">About Me</a></li>
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Learn</a>
+            <div class="navlinks-children">
+              <a href="/starthacking">Hacking</a>
+              <a href="/startcoding">Programming</a>
+            </div>
+          </li>
+        
+          <li><a href="/index.html">Writeups</a></li>
+          <li><a href="/RandomStuffs">RandomStuffs</a></li></ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://localhost:4000/">
+	      <img class="avatar-img" src="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>HackTM - FindMyPass</h1>
+		  
+		    
+			<h2 class="post-subheading">Dumping Kdbx db from Memory</h2>
+			
+		  
+		  
+		  
+		  <span class="post-meta">Posted on February 4, 2020</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+
+      <article role="main" class="blog-post">
+        <ul>
+  <li><strong>Category:</strong> Forensics</li>
+  <li><strong>Points:</strong> 500</li>
+</ul>
+
+<h2 id="challenge">Challenge</h2>
+
+<blockquote>
+  <p>I managed to forget my password for my KeePass Database but luckily I had it still open and managed to get a dump of the system’s memory. Can you please help me recover my password?</p>
+</blockquote>
+
+<p>Author: Legacy</p>
+
+<p>https://mega.nz/#!IdUVwY6I!uJWGZ932xab44H4EJ-zVAqu6_UWNJcCVA4_PPXdqCyc</p>
+
+<p>https://drive.google.com/open?id=1hUlGqJZYgbWaEu7w0JnPMqgYdFr8qVJe</p>
+
+<p>password: eD99mLkU</p>
+
+<p>Hint! I am not very good with computers, I use my one safe password where I want to keep everything safe from hackers.</p>
+
+<h2 id="solution">Solution</h2>
+
+<p>since its a forensic challenge and we have a “Vmem” file it should be a vmware memory image
+so lets start doing our usual things with volatility</p>
+
+<blockquote>
+  <p>volatility -f HackTM.vmem imageinfo 
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/imginf.png?raw=true" alt="Alt text" /></p>
+</blockquote>
+
+<p>since this is windows ,let’s check all process running..</p>
+
+<blockquote>
+  <p>└──╼ $volatility -f HackTM.vmem –profile=Win7SP1x86_23418 pslist
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/psslist.png?raw=true" alt="Alt text" />
+there’s a KeePass.exe and challenge description says something about finding a password so
+Maybe the idea behind this is to find a way to leak the keepass .kdbx database and his master password from memory.</p>
+</blockquote>
+
+<p>First thing to do is a dump of the memory allocated for pid=3620 KeePass.exe</p>
+
+<blockquote>
+  <p>└──╼ $volatility -f HackTM.vmem –profile=Win7SP1x86_23418 memdump -p 3620 -D dump</p>
+</blockquote>
+
+<p>So, if there’s a keepass2 database loaded into memory, then you have a XML header too..
+How did I know this? read this manual : https://github.com/Stoom/KeePass/wiki/KDBX-v2-File-Format and u will find the xml format 
+<img src="http://dann.com.br/content/images/2017/05/Selection_834.png" alt="Alt text" />
+so lets search that xml format in our dump using strings to confirm that we are not doing smth wrong !</p>
+
+<blockquote>
+  <p>└──╼ $strings 3620.dmp |grep xml
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/header.png?raw=true" alt="Alt text" /></p>
+</blockquote>
+
+<p>and with this we can confirm that our encrypted database can be found at memory,</p>
+
+<p>Now we still need:</p>
+
+<p>. Leak the master password from memory (maybe its on clipboard?)</p>
+
+<p>. Leak the entire keepass database from memory (not only the XML)</p>
+
+<p>lets check the clipboard for the master password !</p>
+<blockquote>
+  <p>└──╼ $volatility -f ../HackTM.vmem –profile=Win7SP1x86_23418 clipboard -v
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/clipboard.png?raw=true" alt="Alt text" /></p>
+</blockquote>
+
+<p>the “DmVZQ” should be it so lets grep for it</p>
+<blockquote>
+  <p>└──╼ $strings ../HackTM.vmem |grep dmVZQmd
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/masterpass.png?raw=true" alt="Alt text" /></p>
+</blockquote>
+
+<p>that should be the master password lets save it for later use and dump the entire .kdbx from memory !
+if you remember  in the manual : 
+       |   kdb      |  kdbx pre-rel | kdbx relese |
+byte 1 | 0x9aa2d903 | 0x9aa2d903    | 0x9aa2d903  |<br />
+byte 2 | 0xb54bfb65 | 0xb54bfb66    | 0xb54bfb67  |</p>
+
+<p>since its kdbx we should be searching for “0x9aa2d903 0xb54bfb67” (first byte + second byte of the kdbx rel)
+but  since its in memory it will appear like this “d903 9aa2 fb67 b54b” instead
+so lets grep for that hex in our keepass memory dump</p>
+<blockquote>
+  <p>└──╼ $hexdump 3620.dmp | grep “d903 9aa2 fb67 b54b”
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/hexdump.png?raw=true" alt="Alt text" /></p>
+</blockquote>
+
+<p>but the problem is that we have more than one entry of this file at memory, we need to extract the correct one or it will be  a corrupted database.
+ so lets use wXhexEditor.
+Search by our hex kdbx file signature 03 D9 A2 9A 67 FB 4B B5
+Look for an entry that has no blank spaces breaking the header and file footer..
+the first offset is a perfect example so lets dump it 
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/kdbx.png?raw=true" alt="Alt text" />
+doing file on it shows that we dumped the right thing 
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/ok.png?raw=true" alt="Alt text" />
+so now lets start keepass using this database and the master password we got earlier ! 
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/HackTM/Forensics/FindMyPass/attach.png?raw=true" alt="Alt text" />
+that should be it, saving that file and extracting it with the master password will give u the flag</p>
+
+
+      </article>
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=HackTM+-+FindMyPass&url=http%3A%2F%2Flocalhost%3A4000%2F2020-02-04-FindMyPass%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+  <!--- Share on Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2020-02-04-FindMyPass%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+  <!--- Share on LinkedIn -->
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2020-02-04-FindMyPass%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2019-12-26-Tree/" data-toggle="tooltip" data-placement="top" title="RiceTeaCatPanda Tree">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2020-02-16-DeepDive/" data-toggle="tooltip" data-placement="top" title="Deep dive">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">RSS</span>
+              </a>
+            </li><li><a href="mailto:blackwarriorxtn@gmail.comblackwarriorxtn@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li><li><a href="https://www.facebook.com/blackwariorxtn7" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li><li><a href="https://github.com/blackwarriorxtn" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li><li><a href="https://twitter.com/blackwarriorxtn" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      Amine Amiri
+      &nbsp;&bull;&nbsp;
+      2020
+
+      
+
+      
+      </p>
+  
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+          document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+
+
+  </body>
+</html>

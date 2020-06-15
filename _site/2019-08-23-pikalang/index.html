@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <title>Boot2root BrainFuck</title>
+
+  <meta name="author" content="Amine Amiri" />
+
+  
+  <meta name="description" content="decoding weird texts">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="└──╼ BlackWarriorXTN :~$ - just a typical blog" href="http://localhost:4000/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Boot2root BrainFuck" />
+  
+
+   
+  <meta property="og:description" content="decoding weird texts">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/2019-08-23-pikalang/" />
+  <link rel="canonical" href="http://localhost:4000/2019-08-23-pikalang/" />
+  
+
+  
+  <meta property="og:image" content="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Boot2root BrainFuck" />
+  
+
+  
+  <meta name="twitter:description" content="decoding weird texts">
+  
+
+  
+  <meta name="twitter:image" content="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><a class="navbar-brand" href="http://localhost:4000/">└──╼ BlackWarriorXTN :~$ <b class="blinking_cursor">_</b> </a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/aboutme">About Me</a></li>
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Learn</a>
+            <div class="navlinks-children">
+              <a href="/starthacking">Hacking</a>
+              <a href="/startcoding">Programming</a>
+            </div>
+          </li>
+        
+          <li><a href="/index.html">Writeups</a></li>
+          <li><a href="/RandomStuffs">RandomStuffs</a></li></ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://localhost:4000/">
+	      <img class="avatar-img" src="https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/gh-pages/img/avatars.jpg?raw=true" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Boot2root BrainFuck</h1>
+		  
+		    
+			<h2 class="post-subheading">decoding weird texts</h2>
+			
+		  
+		  
+		  
+		  <span class="post-meta">Posted on August 23, 2019</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+
+      <article role="main" class="blog-post">
+        <h1 id="first-thoughts">First Thoughts</h1>
+
+<p>so after connecting we get that pika messages .
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/nc.png?raw=true" alt="Alt text" />
+the first thing will popup in our minds is pokemon</p>
+
+<p><img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/shock.gif?raw=true" alt="Alt text" /></p>
+
+<h2 id="walkthrough">Walkthrough</h2>
+
+<p>but there is Pikalang wich is a joke esoteric programming language and its identical to brainfuck , except that the instructions are changed into the sounds made by Pikachu From Pokémon ,as you can see the table below each word have its instructions 
+<img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/pikalang.png?raw=true" alt="Alt text" /></p>
+
+<p>we can use an interpreter to see what this means ,i found this one that is written in python and it works find thanks to 
+ jokesmithjohnson 
+ https://github.com/joelsmithjohnson/pikachu-interpreter</p>
+
+<p><img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/Hello%20World.png?raw=true" alt="Alt text" />
+ compiling it using the given interpreter will write out “hello world”</p>
+
+<p>we go back to nc and write HELLO WORLD , we get another esoteric lang 
+ <img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/brain.png?raw=true" alt="Alt text" /></p>
+
+<p>which is very obviously brainfuck , a simple google search is enough to identify it 
+ and for that we can use this online interpreter https://copy.sh/brainfuck/
+ after running we get “This is f**/king my brain” so lets go and write that</p>
+
+<p><img src="https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/b00t2root_2k19/misc/Can_You_Read_Me/brainoutput.png?raw=true" alt="Alt text" /></p>
+
+<p>this time we get the esoteric lang called Malbolge and by using this interpreter
+ http://malbolge.doleczek.pl/ we will be able to get the flag</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>flag :
+
+b00t2root{e50t3ric_langu4g35_ar3_1n5an3}
+</code></pre></div></div>
+
+
+      </article>
+
+      
+        <div class="blog-tags">
+          Tags:
+          
+          
+            <a href="/tags#ctf">ctf</a>
+          
+            <a href="/tags#esoteric">esoteric</a>
+          
+            <a href="/tags#writeups">writeups</a>
+          
+            <a href="/tags#steganography">steganography</a>
+          
+          
+        </div>
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=Boot2root+BrainFuck&url=http%3A%2F%2Flocalhost%3A4000%2F2019-08-23-pikalang%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+  <!--- Share on Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2019-08-23-pikalang%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+  <!--- Share on LinkedIn -->
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2019-08-23-pikalang%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        
+        <li class="next">
+          <a href="/2019-12-26-Tree/" data-toggle="tooltip" data-placement="top" title="RiceTeaCatPanda Tree">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="disqus-comments">
+          
+        </div>
+          
+        <div class="staticman-comments">
+          
+
+        </div>
+        <div class="justcomments-comments">
+          
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">RSS</span>
+              </a>
+            </li><li><a href="mailto:blackwarriorxtn@gmail.comblackwarriorxtn@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li><li><a href="https://www.facebook.com/blackwariorxtn7" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li><li><a href="https://github.com/blackwarriorxtn" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li><li><a href="https://twitter.com/blackwarriorxtn" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      Amine Amiri
+      &nbsp;&bull;&nbsp;
+      2020
+
+      
+
+      
+      </p>
+  
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+          document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+
+
+  </body>
+</html>

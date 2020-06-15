@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>└──╼ BlackWarriorXTN :~$</title>
+    <description>just a typical blog</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Deep dive</title>
+        <description>
+          extracting different types of nested archives(tar,gz,xz,zip) - 
+          Category: Misc Points: 1000 file: deepdive Solution since there is a lot of nested archives there is no way that u can extract it manually so i made this script #!/bin/bash isflag=$(file flag.txt | grep asci| wc -l) while [ $isflag -eq 0 ] do echo &quot;Looking for flag&quot;; iszip=$(file...
+        </description>
+        <pubDate>Sun, 16 Feb 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020-02-16-DeepDive/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-16-DeepDive/</guid>
+      </item>
+    
+      <item>
+        <title>HackTM - FindMyPass</title>
+        <description>
+          Dumping Kdbx db from Memory - 
+          Category: Forensics Points: 500 Challenge I managed to forget my password for my KeePass Database but luckily I had it still open and managed to get a dump of the system’s memory. Can you please help me recover my password? Author: Legacy https://mega.nz/#!IdUVwY6I!uJWGZ932xab44H4EJ-zVAqu6_UWNJcCVA4_PPXdqCyc https://drive.google.com/open?id=1hUlGqJZYgbWaEu7w0JnPMqgYdFr8qVJe password: eD99mLkU Hint! I am not...
+        </description>
+        <pubDate>Tue, 04 Feb 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020-02-04-FindMyPass/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-04-FindMyPass/</guid>
+      </item>
+    
+      <item>
+        <title>RiceTeaCatPanda Tree</title>
+        <description>
+          playing around with ls - 
+          Category: General Skills Points: 200 file: Treemycatisin Challenge It appears that my cat has gotten itself stuck in a tree… It’s really tall and I can’t seem to reach it. Maybe you can throw a snake at the tree to find it? Oh, you want to know what my cat...
+        </description>
+        <pubDate>Thu, 26 Dec 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019-12-26-Tree/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-12-26-Tree/</guid>
+      </item>
+    
+      <item>
+        <title>Boot2root BrainFuck</title>
+        <description>
+          decoding weird texts - 
+          First Thoughts so after connecting we get that pika messages . the first thing will popup in our minds is pokemon Walkthrough but there is Pikalang wich is a joke esoteric programming language and its identical to brainfuck , except that the instructions are changed into the sounds made by...
+        </description>
+        <pubDate>Fri, 23 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019-08-23-pikalang/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-08-23-pikalang/</guid>
+      </item>
+    
+  </channel>
+</rss>
