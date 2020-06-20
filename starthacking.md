@@ -5,7 +5,7 @@ subtitle: Hack, eat, sleep,Repeat;
 ---
 
 Hacking Was Never about "How to hack" this and that , there is so many youtube channels out there who make videos like "how to hack " or how to use a certain tool , rather then explaining the underlying concepts.
-understanding concepts on a lower level , and using those concepts to discover and break things,is what i call hacking .
+understanding concepts on a lower level , and using those concepts to discover and go on an endless journey of learning ,is what i call hacking .
 that's how at least i look at it,but it really takes a lot of time and unfortunately it's not that simple..
 I believe the following quote holds true, so don't expect to become a skilled hacker in one night
 ```
