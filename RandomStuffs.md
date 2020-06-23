@@ -12,6 +12,8 @@ title : RandomStuffs
 > [GTFOBins?](https://gtfobins.github.io/)
 >
 > [PentestMonkey Cheat sheets?](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+>
+> [RegEx Cheat sheet?](https://www.rexegg.com/regex-quickstart.html)
 
 <center><a href='http://www.catb.org/hacker-emblem/'>
 <img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a> <center/>
