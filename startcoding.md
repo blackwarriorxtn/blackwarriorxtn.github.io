@@ -118,7 +118,7 @@ subtitle: Hack, eat, sleep,Repeat;
    - [AndrewNg  Coursera](https://www.coursera.org/learn/machine> -learning)- Select individual course if it consists of multiple then click on audit below the trial/payment options
    - [Machine Learning- Nanodegree  Udacity](https://in.udacity.com/course/intro> -to> -machine> -learning> -> -ud120> -india) 💲
    - [ Reinforcement Learning- Nanodegree  Udacity](https://in.udacity.com/course/reinforcement> -learning> -> -ud600) 💲
-   - [Move 37](https://www.theschool.ai/courses/move> -37> -course/)- :free:
+   - [Move 37](https://www.theschool.ai/courses/move> -37> -course/)- 
    - [ML with Python  YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine> -Learning> -Bootcamp?tab=1)- 💲
    - [Machine Learning Crash Course  Google Developers](https://developers.google.com/machine> -learning/crash> -course/ml> -intro)
@@ -148,7 +148,7 @@ subtitle: Hack, eat, sleep,Repeat;
    - [Data.Gov](https://www.data.gov/)
 
 > -  **Book for Machine Learning**
-   - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)- :free:
+   - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)- 
 
 
 ## 1.3 Deep Learning
@@ -368,7 +368,7 @@ subtitle: Hack, eat, sleep,Repeat;
        - [Redux  Tyler McGinnis](https://tylermcginnis.com/courses/redux/) 💲
 
    - **Vue.js**
-       - [Vue School](https://vueschool.io/courses) :free: + 💲
+       - [Vue School](https://vueschool.io/courses)  + 💲
        - [Scrimba](https://scrimba.com/g/glearnvue)
        - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
        - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
