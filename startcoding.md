@@ -72,7 +72,7 @@ title: StartCoding
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Contributors](CONTRIBUTORS.md)
+
 
 
 
@@ -106,7 +106,6 @@ title: StartCoding
 
 ## 1.2 Machine Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
@@ -148,9 +147,8 @@ title: StartCoding
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
--  **Best Online Courses**
+ -  **Best Online Courses**
     - [Deep Learning Specialization  Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning  Fast.AI](http://course.fast.ai/)
     - [Deep Learning  Kaggle](https://www.kaggle.com/learn/deep-learning/)
@@ -171,9 +169,6 @@ title: StartCoding
 
 
 ## 1.4 Android Development
-
- >  [Checkout the Full Resources on ANDROID](Android/Android.md) 👶
-
 -  [Free courses & Nanodegree  Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 💲
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
@@ -183,7 +178,7 @@ title: StartCoding
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 
 ## 1.5 Backend Development
-
+- [Devdocs.io - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…](https://devdocs.io/)
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 - [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
@@ -259,6 +254,9 @@ title: StartCoding
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
+    - [CSS Tricks "Complete Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - [CSS Tricks "Complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    - [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.netlify.com/)
     - [HTML and CSS Tutorials  w3schools.com](https://www.w3schools.com/html/default.asp) 👶
     - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     - [Intro to HTML and CSS  Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
@@ -752,7 +750,7 @@ ID Name   Location
 
 # 4. Open Source Programs
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+
 
  Id Name  Organization Stipend/Incentives Timeline  Deadline 
 ------- ------ ------ 
@@ -768,9 +766,6 @@ ID Name   Location
  11  [Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation  NO  -  - 
 12 [Outreachy](https://www.outreachy.org/)    Yes  - - 
 
-> **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
-
-> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
 
 
 
