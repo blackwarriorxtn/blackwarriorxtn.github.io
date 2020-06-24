@@ -6,10 +6,9 @@ subtitle: Hack, eat, sleep,Repeat;
 
 
 
-![Image](img/list.png)
+![Image](img/list.png) 
 
-
-## Table of Contents :clipboard:
+## Table of Contents : 
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
@@ -86,14 +85,12 @@ subtitle: Hack, eat, sleep,Repeat;
 
 ## 1.1 Python
 
-> [**Browse this link for detailed information on Python**](Python/Python.md)
 
 -  **Tutorials**
-
-	- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
-	- [Progate Python Classes](https://progate.com/languages/python) 👶
-	- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) 👶
-	- [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
+	> - [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+	> - [Progate Python Classes](https://progate.com/languages/python) 👶
+	> - [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) 👶
+	> - [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
 	- [Python For Everybody](https://www.coursera.org/specializations/python)
 	- [Write Better Python Functions](https://jeffknupp.com/)
 	- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
