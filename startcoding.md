@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
+title: StartCoding
 subtitle: Hack, eat, sleep,Repeat;
 ---
 
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-![Image](res/a2z.png)
+![Image](img/list.png)
 
 *Image credits: Google*
 
@@ -78,9 +78,9 @@ subtitle: Hack, eat, sleep,Repeat;
 
 # FYI
 
-- Are you just getting started? Look for the :baby: emoji. It highlights resources for absolute beginners.
-- Some resources are recommended for _everyone_, so they have a :star: emoji.
-- Willing to spend some money to improve your skills?  :heavy_dollar_sign: indicates paid content.
+- Are you just getting started? Look for the 👶 emoji. It highlights resources for absolute beginners.
+- Some resources are recommended for _everyone_, so they have a ⭐ emoji.
+- Willing to spend some money to improve your skills?  💲 indicates paid content.
 
 ---
 
@@ -93,14 +93,14 @@ subtitle: Hack, eat, sleep,Repeat;
 -  **Tutorials**
 
 	- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
-	- [Progate Python Classes](https://progate.com/languages/python) :baby:
-	- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
+	- [Progate Python Classes](https://progate.com/languages/python) 👶
+	- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) 👶
 	- [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
 	- [Python For Everybody](https://www.coursera.org/specializations/python)
 	- [Write Better Python Functions](https://jeffknupp.com/)
 	- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
-	- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) :baby:
+	- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 👶
 	- [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 	- [A Byte of Python](https://python.swaroopch.com/)
 	- [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
@@ -121,11 +121,11 @@ subtitle: Hack, eat, sleep,Repeat;
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) :heavy_dollar_sign:
-    - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) :heavy_dollar_sign:
+    - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 💲
+    - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) 💲
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - :free:
     - [ML with Python | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - 💲
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
@@ -177,15 +177,15 @@ subtitle: Hack, eat, sleep,Repeat;
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
-    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) :star:
+    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) ⭐
 
 
 ## 1.4 Android Development
 
- >  [Checkout the Full Resources on ANDROID](Android/Android.md) :baby:
+ >  [Checkout the Full Resources on ANDROID](Android/Android.md) 👶
 
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
--  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
+-  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 💲
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
@@ -198,27 +198,27 @@ subtitle: Hack, eat, sleep,Repeat;
 - [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
 -  **Django - Python**
-    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
+    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) 👶
     - [Django Docs](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) :baby:
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 👶
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
     - [Django Class-Based Views](https://ccbv.co.uk/)
 
 -  **Flask - Python**
-     - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
+     - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 👶 + Intermediate
 
 -  **Node.JS**
     - [NodeSchool | Workshops Open Source](https://nodeschool.io/) :heart:
-    - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
+    - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) 💲
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) :heavy_dollar_sign: - Intermediate
-    - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) :baby:
-    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
+    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) 💲 - Intermediate
+    - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) 👶
+    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) ⭐
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
-    - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
+    - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - 👶
     - [Mixu's Node book](http://book.mixu.net/node/)
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
@@ -236,14 +236,14 @@ subtitle: Hack, eat, sleep,Repeat;
     - [PHP Pandas](https://daylerees.com/php-pandas/)
     - [PHP Internals Book](http://www.phpinternalsbook.com/)
     - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
     - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
     - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
@@ -262,14 +262,14 @@ subtitle: Hack, eat, sleep,Repeat;
 
 ## 1.6 Frontend Web Development
 
-- [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Frontend Masters](https://frontendmasters.com/) 💲
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
-    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) 👶
     - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
@@ -311,8 +311,8 @@ subtitle: Hack, eat, sleep,Repeat;
     - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
     - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
-    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) ⭐ 💲
+    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
@@ -322,12 +322,12 @@ subtitle: Hack, eat, sleep,Repeat;
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
     - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
-    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
+    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 👶
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
     - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
 
@@ -335,11 +335,11 @@ subtitle: Hack, eat, sleep,Repeat;
 - **JavaScript Frameworks**
 
     - **Angular**
-        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
-        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
+        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) 💲
+        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - 💲
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
-        - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
+        - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course 👶
         - [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
 
      - **React.js**
@@ -351,29 +351,29 @@ subtitle: Hack, eat, sleep,Repeat;
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-        - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
+        - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) 💲 - Worth it
         - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
         - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-        - [React For Beginners | Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
-        - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
-        - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
-        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
+        - [React For Beginners | Wes Bos](https://reactforbeginners.com/) 💲
+        - [Advanced React | Wes Bos](https://advancedreact.com/) 💲
+        - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) 💲
+        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) 💲
 
      - **React Native**     
-        - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
+        - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) 💲
 
     - **Redux.js**
-        - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
-        - [Redux Documentation](https://redux.js.org/introduction) :star:
+        - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 👶
+        - [Redux Documentation](https://redux.js.org/introduction) ⭐
         - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
         - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
         - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
         - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
         - [Introduction to the Redux Challenges | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
-        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) :heavy_dollar_sign:
+        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) 💲
 
     - **Vue.js**
-        - [Vue School](https://vueschool.io/courses) :free: + :heavy_dollar_sign:
+        - [Vue School](https://vueschool.io/courses) :free: + 💲
         - [Scrimba](https://scrimba.com/g/glearnvue)
         - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
         - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
@@ -420,7 +420,7 @@ subtitle: Hack, eat, sleep,Repeat;
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
     - [Codewars](https://www.codewars.com/) - Interesting ranking system with beautiful UI for competitive programming and interview prep.
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
-    - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
+    - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (💲 for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
@@ -443,15 +443,15 @@ subtitle: Hack, eat, sleep,Repeat;
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
     - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  Strongly recommended to learn DS and Computer Science fundamentals
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
-    - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
-    - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
+    - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship 💲
+    - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition 💲
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
+ - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) 💲
  - [Building Alexa Skills from Scratch | YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
+ - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) 💲 (Free 10-day trial)
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
@@ -461,7 +461,7 @@ subtitle: Hack, eat, sleep,Repeat;
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
- - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+ - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -527,8 +527,8 @@ subtitle: Hack, eat, sleep,Repeat;
 ## 1.18 Docker
 
 - [Official Documentation on website](https://docs.docker.com/)
-- [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
-- [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+- [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) ⭐
+- [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) 💲
 
 ## 1.19 Microsoft Technologies
 
@@ -1089,7 +1089,7 @@ subtitle: Hack, eat, sleep,Repeat;
 ## 14.1 Design Resources
 
 - **Youtube Channels & Playlists**
-    - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
+    - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* 👶
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
