@@ -5,8 +5,8 @@ title: StartCoding
 
 
 
-![Image](img/list.png) 
-  **In this Page you will Find massive ressource list to get started with learning a new language , So if :  ** 
+![Image](img/wallp.jpg) 
+  In this Page you will Find massive ressource list to get started with learning a new language , So if :   
 - You are a begginer look for the  👶 emoji. It highlights resources for  beginners.
 - You are Willing to spend some money to improve your skills look for   💲 emoji it indicates paid content.
 - You are looking for Some resources  that are recommended for everyone, then look for ⭐ emoji.
