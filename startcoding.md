@@ -87,15 +87,15 @@ subtitle: Hack, eat, sleep,Repeat;
 
 
 -  **Tutorials**
-	> - [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+	> - [Learn Python  CodeAcademy](https://www.codecademy.com/learn/learn-python)
 	> - [Progate Python Classes](https://progate.com/languages/python) 👶
-	> - [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) 👶
-	> - [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
+	> - [Video Tutorial for absolute beginners  YouTube](http://bit.ly/2NkrsKh) 👶
+	> - [Intro to Python  Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
 	- [Python For Everybody](https://www.coursera.org/specializations/python)
 	- [Write Better Python Functions](https://jeffknupp.com/)
 	- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
-	- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 👶
+	- [The New Boston Python  Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 👶
 	- [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 	- [A Byte of Python](https://python.swaroopch.com/)
 	- [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
@@ -115,15 +115,15 @@ subtitle: Hack, eat, sleep,Repeat;
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 💲
-    - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) 💲
+    - [AndrewNg  Coursera](https://www.coursera.org/learn/machine-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Machine Learning - Nanodegree  Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 💲
+    - [ Reinforcement Learning - Nanodegree  Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) 💲
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - :free:
-    - [ML with Python | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [ML with Python  YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - 💲
-    - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Machine Learning Crash Course  Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Applied Data Science with Python Specialization  Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Machine Learning  Kaggle](https://www.kaggle.com/learn/machine-learning)
   
 
 -  **Best GitHub Repositories to follow**
@@ -156,9 +156,9 @@ subtitle: Hack, eat, sleep,Repeat;
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Deep Learning | Fast.AI](http://course.fast.ai/)
-    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [Deep Learning Specialization  Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Deep Learning  Fast.AI](http://course.fast.ai/)
+    - [Deep Learning  Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -179,7 +179,7 @@ subtitle: Hack, eat, sleep,Repeat;
 
  >  [Checkout the Full Resources on ANDROID](Android/Android.md) 👶
 
--  [Free courses & Nanodegree | Udacity](https://udacity.com)
+-  [Free courses & Nanodegree  Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 💲
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
@@ -193,7 +193,7 @@ subtitle: Hack, eat, sleep,Repeat;
 - [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
 -  **Django - Python**
-    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) 👶
+    - [Try Django  YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) 👶
     - [Django Docs](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 👶
@@ -205,11 +205,11 @@ subtitle: Hack, eat, sleep,Repeat;
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 👶 + Intermediate
 
 -  **Node.JS**
-    - [NodeSchool | Workshops Open Source](https://nodeschool.io/) :heart:
-    - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) 💲
+    - [NodeSchool  Workshops Open Source](https://nodeschool.io/) :heart:
+    - [The Complete Node.js Developer Course  Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) 💲
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) 💲 - Intermediate
-    - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) 👶
+    - [Node JS Tutorial for Beginners  YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) 👶
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) ⭐
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
@@ -236,8 +236,8 @@ subtitle: Hack, eat, sleep,Repeat;
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
-    - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
-    - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
+    - [Learn Ruby  Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
+    - [Learn Ruby, Dev Concept and More  Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
@@ -245,7 +245,7 @@ subtitle: Hack, eat, sleep,Repeat;
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
 
 - **MongoDB**
-    - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    - [MongoDB Tutorial for Beginners  YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Free Courses and Paid Private training](https://university.mongodb.com/)
     - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
@@ -264,13 +264,13 @@ subtitle: Hack, eat, sleep,Repeat;
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
-    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) 👶
+    - [HTML and CSS Tutorials  w3schools.com](https://www.w3schools.com/html/default.asp) 👶
     - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-    - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
-    - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Intro to HTML and CSS  Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+    - [Write quicker HTML5 and CSS 3  Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
     - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [HTML & CSS Catalog  Codecademy](https://www.codecademy.com/catalog/language/html-css)
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -279,11 +279,11 @@ subtitle: Hack, eat, sleep,Repeat;
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS Grid](https://cssgrid.io/)
-    - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS Flexbox  Wes Bos](https://flexbox.io/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
-    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [Flexbox Froggy  CSS Learning Game](https://flexboxfroggy.com/)
     - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
     - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
     - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
@@ -293,7 +293,7 @@ subtitle: Hack, eat, sleep,Repeat;
 
 - **Bootstrap4**
 
-    - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [Bootstrap4 Course with Projects  Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
 	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
@@ -302,21 +302,21 @@ subtitle: Hack, eat, sleep,Repeat;
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
-    - [Javascript30 | Wes Bos](https://javascript30.com/)
-    - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [Javascript30  Wes Bos](https://javascript30.com/)
+    - [Intro to JavaScript  Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
     - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) ⭐ 💲
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
-    - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [JavaScript Design Patterns  Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
-    - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [Introduction to JavaScript  freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
-    - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [Javascript Tutorial for Beginner Complete Course 2018  YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
-    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
+    - [example.js  js by example  CodePen ](https://codepen.io/towc/post/examplejs-1-1)
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 👶
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
@@ -324,14 +324,14 @@ subtitle: Hack, eat, sleep,Repeat;
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 👶
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
-    - [RegexOne | Regular Expression course](https://regexone.com/)
+    - [RegexOne  Regular Expression course](https://regexone.com/)
 
 
 - **JavaScript Frameworks**
 
     - **Angular**
-        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) 💲
-        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - 💲
+        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller  Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) 💲
+        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani  Udemy](https://www.udemy.com/the-complete-angular-master-class/) - 💲
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course 👶
@@ -339,33 +339,33 @@ subtitle: Hack, eat, sleep,Repeat;
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
-        - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
-        - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-        - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
-        - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
+        - [Learn React for free  Scrimba](https://scrimba.com/g/glearnreact)
+        - [Video Tutorials - Beginner to Intermediate  YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+        - [Complete React Tutorial (& Redux)  YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+        - [ReactJS Tutorial  Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
         - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) 💲 - Worth it
-        - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
-        - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-        - [React For Beginners | Wes Bos](https://reactforbeginners.com/) 💲
-        - [Advanced React | Wes Bos](https://advancedreact.com/) 💲
-        - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) 💲
-        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) 💲
+        - [Hello World  React.js Org](https://reactjs.org/docs/hello-world.html)
+        - [The Road to React  Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+        - [React For Beginners  Wes Bos](https://reactforbeginners.com/) 💲
+        - [Advanced React  Wes Bos](https://advancedreact.com/) 💲
+        - [React Fundamentals  Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) 💲
+        - [Modern React with Redux  Udemy](https://www.udemy.com/react-redux/) 💲
 
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) 💲
 
     - **Redux.js**
-        - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 👶
+        - [Redux Tutorial #1 - React js tutorial - How Redux Works  YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 👶
         - [Redux Documentation](https://redux.js.org/introduction) ⭐
         - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
         - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
         - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
         - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-        - [Introduction to the Redux Challenges | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
-        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) 💲
+        - [Introduction to the Redux Challenges  freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+        - [Redux  Tyler McGinnis](https://tylermcginnis.com/courses/redux/) 💲
 
     - **Vue.js**
         - [Vue School](https://vueschool.io/courses) :free: + 💲
@@ -378,20 +378,20 @@ subtitle: Hack, eat, sleep,Repeat;
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
         - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-        - [A Video Tutorial on Web Accessibility for Impaired Users | YouTube](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+        - [A Video Tutorial on Web Accessibility for Impaired Users  YouTube](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
         - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
         - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
-        - [ARIA - Accessibility | MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+        - [ARIA - Accessibility  MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 - **Frontend DevTools**
     - **Package Managers**
-        - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
-        - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
+        - [NPM  YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
+        - [Yarn  YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
         - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 
     - **Bundlers**
         - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
-        - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+        - [Webpack  YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
         - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
         - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
         - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
@@ -442,12 +442,12 @@ subtitle: Hack, eat, sleep,Repeat;
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition 💲
 
 ## 1.8 Alexa Tutorials
- - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
- - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) 💲
- - [Building Alexa Skills from Scratch | YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) 💲 (Free 10-day trial)
- - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
+ - [Learn Alexa  Codecademy](https://www.codecademy.com/learn/learn-alexa)
+ - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps  Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
+ - [Comprehensive Alexa Skill Development course  Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) 💲
+ - [Building Alexa Skills from Scratch  YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+ - [Developing Alexa Skills for Amazon Echo  PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) 💲 (Free 10-day trial)
+ - [Alexa Skills Development  Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
  - [HackerRank]( https://www.hackerrank.com/domains/c)
@@ -464,16 +464,16 @@ subtitle: Hack, eat, sleep,Repeat;
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
- - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
+ - [C++ Class  Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
- - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [C++ For Programmers  Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
- - [How to use Git and Github | Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
- - [Version Control with Git | Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
- - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+ - [How to use Git and Github  Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+ - [Version Control with Git  Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Introduction to Git and Github  YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
  - [LearnGitBranching](https://learngitbranching.js.org/)
  - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
@@ -569,36 +569,36 @@ subtitle: Hack, eat, sleep,Repeat;
 ## 2.1 Top Global Hackathons 🌐
 
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
-|--|------ |---|---| ------ | ----| ----- |
-|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
-|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
-|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
-|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
-|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
-|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
-|7 | [Hack In The North](https://www.hackinthenorth.com/)| India | - | - | March | N/A |
-|8 | [Hack Western](https://hackwestern.com/) | Western University | Yes  | Nov End | Mid Oct | 11/23/18 |
-|9 | [HackDTU](http://hackdtu.tech/) | India | No | - | - | Ended |
-|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
-|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
-|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | India | No | August-September | - | Ended |
-|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
-|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
-|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
-|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
-|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
-|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
-|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
-|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
-|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
-|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
-|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
-|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
-|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
-|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
-|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+Id Name  Place Travel Reimbursement Application Start  Application End  Event Date 
+-------- ------ ------  ---- ----- 
+1  [Call for Code](https://callforcode.org/challenge/)  Online  -  Feb 2019  Jul 2019  Jul 29 2019 
+2  [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/)  India  -  Sept-Oct  -  Ended 
+3  [Conuhacks](http://www.conuhacks.io/)  Canada  -  -   -  1/26/2019 
+4  [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/)  Bengaluru, India  -  -  -  11/17/18 
+5  [Facebook Hackathon](https://devcommunitychallenge.devpost.com/)  Online  NA  -  -  n/a 
+6  [Global Hackathon Seoul](https://seoul.globalhackathon.io/)  South Korea  YES  -  -  Dead page 
+7  [Hack In The North](https://www.hackinthenorth.com/) India  -  -  March  N/A 
+8  [Hack Western](https://hackwestern.com/)  Western University  Yes   Nov End  Mid Oct  11/23/18 
+9  [HackDTU](http://hackdtu.tech/)  India  No  -  -  Ended 
+10  [HackDavis](http://hackdavis.io/)USA  -   -    -  N/A 
+11  [HackDuke](http://www.hackduke.com/)  USA  -  -  -  Dead page 
+12  [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/)  India  No  August-September  -  Ended 
+13  [Hackinit](https://hackinit.org/)  China  -  -   -  Ended 
+14  [HackISU](https://hackisu.org/) USA  No  October  -  Ended 
+15  [HackMIT](https://hackmit.org/)    USA  YesMid Sept  July end  Ended 
+16  [HackNC](https://hacknc.com)  USA  Yes (on a case by case basis)  Check website  Week before event  Ended, 2019 is open for pre-reg 
+17  [HackNY](http://hackny.org/hackathon/)  USA  Yes  -  -  Ended 
+18  [HackPrinceton](https://www.hackprinceton.com/)USA  -  -   -  11/9/18 
+19  [HacktheNorth](http://pennapps.com/) Canada YesMid Sept  July end  Ended 
+20  [Hacktoberfest](https://hacktoberfest.digitalocean.com/)  Online  -  -   -  Annually every October 
+21  [HackUCI](https://www.hackuci.com/)  USA  -  -   -  N/A 
+22  [Hackdotslash](https://hackdotslash.co.in/)  India  -  February   -  2019 
+23  [HackHers](https://ruhackhers.org/)  New Brunswick  -  February   -  2019 
+24  [WiHacks](https://wichacks.io/)  New York  -  March   -  2019 
+25  [Techtogether](https://boston.techtogether.io/)  Boston  -  March   -  2019 
+26  [Hack & Soehne](https://hackundsoehne.de/) Germany Yes  -  -  Several events during the year 
+27  [Major League Hacking](https://mlh.io/seasons/na-2019/events) Canada, USA, Mexico  -  -  -  Many events during the year 
+28  [START Hack](https://starthack.ch/) Switzerland -  -  -  8-10 March, 2019 
 
 
 
@@ -606,36 +606,36 @@ subtitle: Hack, eat, sleep,Repeat;
 
 ##  2.2 Competitions 🏆
 
-|ID| Name  | Location |
-|--|------ |----------|
-|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
-|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
-|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
-|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
-|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
-|7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
-|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
-|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
-|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
-|11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
-|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
+ID Name   Location 
+-------- ----------
+1  [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/)  Online & Onsite 
+2  [ACM - ICPC](https://www.codechef.com/icpc/2020)  Online & On-Site 
+3  [CodersBit](https://www.interviewbit.com/codersbit/)  Online 
+4  [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  Online 
+5  [Code Gladiators](https://www.techgig.com/codegladiators)  Online & Onsite 
+6  [E-Yantra](http://www.e-yantra.org/)  Online & Onsite 
+7  [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)  - 
+8  [Shell Ideas360](https://bit.ly/14iPmYn) Online & Onsite 
+9  [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt)  Online 
+10 [Doodle 4 Google](https://doodles.google.com/d4g/)  Online 
+11 [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/)  -  
+12 [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) Online & Onsite 
+13 [Quest Ingenium](https://www.questingenium.com/)  -  
+14 [ROBOCON](http://aburobocon2019.mnb.mn/en)  Onsite 
 
 
 
 ##  2.3  Hackathon Search Portals :dart:
-|s.no| Name  | Location | Category |
-|---| ------ |---| --- |
-|1| [HackSociety](https://hacksociety.tech/attend/)| India | ALL |
-|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
-|4| [Hackathon.io](http://www.hackathon.io/events) | Global | ALL |
-|5| [TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
-|6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
-|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
-|8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+s.no Name   Location  Category 
+--- ------ --- --- 
+1 [HackSociety](https://hacksociety.tech/attend/) India  ALL 
+2 [DevPost](https://devpost.com/hackathons)  Online & On-site  ALL 
+3 [HackerEarth](https://hackerearth.com/)  Online & On-site  ALL 
+4 [Hackathon.io](http://www.hackathon.io/events)  Global  ALL 
+5 [TechGIG - Search Online Competitions]() Online & On-Site ALL 
+6 [Analytical Vidya](https://www.analyticsvidhya.com/)  Online & On-Site  Data Science  
+7 [Hackathon.com](https://www.hackathon.com/) [Online & On-site]  Global  ALL 
+8 [Dare2compete](https://dare2compete.com/bites)  Online & On-site  India  ALL 
 ## 2.4 Events 🎫
 
 > **Check out these events for your region**
@@ -653,33 +653,33 @@ subtitle: Hack, eat, sleep,Repeat;
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
-|ID| Name  | Location |
-|--|------ |----------|
-|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
-|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
-|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
-|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
-|12 | [HackerYou](https://hackeryou.com/) | Toronto |
-|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
-|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
-|15 | [RED Academy](https://redacademy.com) | Canada |
-|16 | [Flatiron School](https://flatironschool) | Online, USA |
+ID Name   Location 
+-------- ----------
+1 [Eureka - IITB](http://www.ecell.in/eureka/) Mumbai, INDIA 
+2 [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)   Online & USA 
+3  [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/)  Redwood City, California 
+4  [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018)  New York 
+5  [Y Combinator's Startup School](https://www.startupschool.org/)  Online 
+6  [School of AI](https://picampus-school.com/programme/school-of-ai/)  Rome, Italy 
+7  [European Innovation Academy](https://www.inacademy.eu/)  Portugal, China 
+8  [Startup Weekend - DTU](http://www.ecelldtu.in/)  Delhi, India
+9  [Watson School Incubator](https://watson.is/semester-incubator-application/)  USA 
+10  [DevMountain](https://devmountain.com/)  UT, AZ, TX 
+11  [Product School](https://www.productschool.com)  Online, USA, & Toronto 
+12  [HackerYou](https://hackeryou.com/)  Toronto 
+13  [BrainStation](https://brainstation.io/)  Online, USA, & Canada 
+14  [Lighthouse Labs](https://lighthouselabs.ca/)  Canada 
+15  [RED Academy](https://redacademy.com)  Canada 
+16  [Flatiron School](https://flatironschool)  Online, USA 
 
 ## 2.6 Hiring Challenges
 
-|ID| Name  | Location |
-|--|------ |----------|
-|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
-|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
-|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
-|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+ID Name   Location 
+-------- ----------
+1 [Google Kickstart](https://code.google.com/codejam/kickstart/) Online 
+2 [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)   Online 
+3 [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)   Online 
+4 [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)   Online 
 
 ---
 
@@ -689,7 +689,7 @@ subtitle: Hack, eat, sleep,Repeat;
 1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
-4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
+4. [Internshala Student Partner  -    ISP](https://internshala.com/)
 5. [Progate Student Ambassador](http://progate.com/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
@@ -715,9 +715,9 @@ subtitle: Hack, eat, sleep,Repeat;
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
 6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+7. [Google Reskilling India Program  Pluralsight](https://www.pluralsight.com/partners/google/)
+8. [Free .tech domain for 1 year  dot tech Domains](https://get.tech/students)
+9. [Free Web Hosting for 1 year  Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
 11. [Namecheap free .name Domain](https://nc.me/)
 12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
@@ -759,19 +759,19 @@ subtitle: Hack, eat, sleep,Repeat;
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
- |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
-|-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
-|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
-|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
-| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
-|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+ Id Name  Organization Stipend/Incentives Timeline  Deadline 
+------- ------ ------ 
+1 [Google Summer of Code](https://summerofcode.withgoogle.com/) Google YES - - 
+2 [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global  Yes-  - 
+4 [GNOME internships](https://wiki.gnome.org/Internships)  GNOME  YES  -  - 
+5 [Radare Summer of Code](https://rada.re/rsoc)  -  -   -  
+6 [DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE  -   -   - 
+7 [BOSS](http://pennapps.com/) Coding Blocks, INDIA YES -  - 
+8 [GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies  -  - 
+9 [Season of KDE](https://season.kde.org)  KDE  Prizes  -  - 
+10 [The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  Yes  - - 
+ 11  [Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation  NO  -  - 
+12 [Outreachy](https://www.outreachy.org/)    Yes  - - 
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
@@ -783,16 +783,16 @@ subtitle: Hack, eat, sleep,Repeat;
 
 # 5. Startup Programs and Incubators :mag_right:
 
-|Id |Name | Organization|
-|-|--|---- |
-|1| [Amity Innovation Incubator](http://www.amity.edu/) | Amity University |
-|2| [Atal Incubation Centre](http://www.aim.gov.in/) | Government |
-|3| [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/) | Google |
-|4| [Startup Village](https://www.sv.co/) | SV.CO |
-|5| [T HUB ](https://t-hub.co/) | - |
-|6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
-|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
-|8| [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/) | IMD/UFRN, Brazil |
+Id Name  Organization
+------- 
+1 [Amity Innovation Incubator](http://www.amity.edu/)  Amity University 
+2 [Atal Incubation Centre](http://www.aim.gov.in/)  Government 
+3 [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/)  Google 
+4 [Startup Village](https://www.sv.co/)  SV.CO 
+5 [T HUB ](https://t-hub.co/)  - 
+6 [Atal Innovation challenge](http://aim.gov.in/overview.php)  NITI, AYOG 
+7 [Global Entrepreneurship Bootcamp](https://gebootcamp.com/)  Malaysia 
+8 [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/)  IMD/UFRN, Brazil 
 
 ---
 
@@ -825,139 +825,139 @@ subtitle: Hack, eat, sleep,Repeat;
 > ## **Take a moment to search for these clubs on Google and Facebook in your city.**
 
 > ## **Check **Meetup.com** for more events in your locality**
-|Id |            Name Of The Community       |   Area    |
-|---|:---------------------------------------:|:--------:|
-|1 | [Google Developer Group](https://developers.google.com/programs/community/gdg/)|All States|
-|2 | [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)|Delhi and Banglore |
-|3 | [Mozilla Campus Clubs](https://campus.mozilla.community/)|-|
-|4 | [Facebook Developer Circle](https://developers.facebook.com/developercircles)|Delhi|
-|5 | [Women Tech Makers](https://womentechmakers.com)|-|
-|6 | [Women Who Code](https://www.womenwhocode.com/)|-|
-|7 | [Women In Tech](https://www.womenintechnology.org/)|-|
-|8 | [Developers Student Club by Google](https://developers.google.com/training/programs/)|All Colleges accross India|
-|9 | [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)|-|
-|10| [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)|Delhi and Bangalore|
-|11| [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)|Delhi|
-|12| [Toastmaster International](https://www.toastmasters.org)|-|
-|13| [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)|-|
-|14| [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)|-|
-|15| [Forloop Africa](https://forloop.africa)|-|
-|16| [Women in Tech (Finland)](https://womenintech.fi/)|-|
-|17| [HelsinkiJS](https://meetabit.com/communities/helsinkijs)|-|
-|18| [100 Days of Code](https://www.100daysofcode.com/connect/)|Online|
-|19| [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)|-|
-|20| [Girl Develop It](https://www.girldevelopit.com/chapters)|-|
-|21| [R-Ladies](https://rladies.org/)|-|
-|22| [India Linux Users Group Delhi](https://www.linuxdelhi.org/)|Delhi|
-|23| [PyLadies](https://www.pyladies.com/)|Delhi|
-|24| [PyData Delhi](https://pydata.org/delhi2018/)|Delhi|
-|25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
-|26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
-|27| [ACM Student Chapter](https://acm.org/)|All Colleges Worldwide|
+Id             Name Of The Community          Area    
+---:---------------------------------------::--------:
+1  [Google Developer Group](https://developers.google.com/programs/community/gdg/)All States
+2  [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)Delhi and Banglore 
+3  [Mozilla Campus Clubs](https://campus.mozilla.community/)-
+4  [Facebook Developer Circle](https://developers.facebook.com/developercircles)Delhi
+5  [Women Tech Makers](https://womentechmakers.com)-
+6  [Women Who Code](https://www.womenwhocode.com/)-
+7  [Women In Tech](https://www.womenintechnology.org/)-
+8  [Developers Student Club by Google](https://developers.google.com/training/programs/)All Colleges accross India
+9  [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)-
+10 [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)Delhi and Bangalore
+11 [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)Delhi
+12 [Toastmaster International](https://www.toastmasters.org)-
+13 [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)-
+14 [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)-
+15 [Forloop Africa](https://forloop.africa)-
+16 [Women in Tech (Finland)](https://womenintech.fi/)-
+17 [HelsinkiJS](https://meetabit.com/communities/helsinkijs)-
+18 [100 Days of Code](https://www.100daysofcode.com/connect/)Online
+19 [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)-
+20 [Girl Develop It](https://www.girldevelopit.com/chapters)-
+21 [R-Ladies](https://rladies.org/)-
+22 [India Linux Users Group Delhi](https://www.linuxdelhi.org/)Delhi
+23 [PyLadies](https://www.pyladies.com/)Delhi
+24 [PyData Delhi](https://pydata.org/delhi2018/)Delhi
+25 [LinuxChix](https://www.linuxchix.org/)Delhi
+26 [Owasp](https://www.owasp.org/index.php/Jaipur)Jaipur
+27 [ACM Student Chapter](https://acm.org/)All Colleges Worldwide
 ---
 
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
-|--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
-|2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | PASSED | - | - |
-|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
-|14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
-|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
-|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
-|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
-|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
-|21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
-|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
-|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 24 | Nov 25 | - |
-|25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
-|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
-|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
-|29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
-|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
-|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
+Id  Name  Place Travel Reimbursement Timeline  Deadline  Type 
+-------- ------:------ :----:-----
+1  [PyCon US-Python Conference USA](https://us.pycon.org/2019/)   USA  No   Apr 15-23, 2020  -  Python 
+2  [ODSC ](https://odsc.com/)  Global  No  Varies  -  AI 
+3  [World Business Dialogue](https://www.world-business-dialogue.com/) Global  Yes   Mar 2-6. 2020 -  Business 
+4  [Business Today Conference](https://businesstoday.org/conferences/) New York  Yes Nov 24  Nov 26   Business 
+5  [Asia Pacific Week](http://asiapacificweek.anu.edu.au/)  Australia  Partial  PASSED  -  - 
+6  [DotJS](https://www.dotjs.io/)  France  -  Dec 5  Dec 6  JS 
+7  [PyCon](https://www.pycon.fr/2018/)  France  -  Oct 4  Oct 7  Python 
+8  [React Europe](https://www.react-europe.org/)  France  -  May 14-15, 2020  -  JS 
+9  [Dublin Web Summit](https://websummit.net/ )  Dublin  No  Nov 4  Nov 7  Web 
+10 [Harvard Project for Asian and International Relations](https://www.hpair.org/)   Malaysia  Yes  PASSED  -  - 
+11 [Grace Hopper Conference and Fellowship](https://ghc.anitab.org)  Orlando, FL, USA  Yes  Oct 1-4, 2019  -  - 
+12 [MIT Global Startup Workshop](http://mitgsw.org/2015/)  USA  -  PASSED  -  - 
+13 [Thiel Summit](http://summit.thielfellowship.org/)  USA  -  -  -  - 
+14 [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)   USA  -  -  Closed  - 
+15 [Clinton Global Initiative University](http://www.cgiu.org/)  USA  -  Mar to Oct (varies every year)  3 days  - 
+16 [South American Business Forum](https://www.sabf.org.ar/)  Argentina  Partial  PASSED  -  Business 
+17 [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/)  Virginia  Yes  PASSED  -  - 
+18 [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/)  California  Yes  Summer  -  - 
+19 [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit)  Global No  -  -  - 
+20 [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/)  India  -  -  -  - 
+21 [SURGE](https://surgeconf.com/surge2017)  India  -  Nov  -  -  - 
+22 [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/)  India  No  Varies  -  - 
+23 [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/)  USA  No  PASSED  -  - 
+24 [Tie Global Summit](http://www.tieglobalsummit.org/)  New Delhi, India  No  Nov 24  Nov 25  - 
+25 [Pioneer Application](https://pioneer.app/)  Global  Yes  -  -  - 
+26 [Student Leadership conference](https://studentleadershipconference.com/)  USA  Yes  PASSED  -  - 
+27 [Hackference India ](http://hackference.in/)  India  No  Nov  Mid Dec  - 
+28 [JavaLand](https://www.javaland.eu/en/home/)  Germany  -  March 17-19, 2020  -  Lectures, Trainings, Community Activities 
+29 [Git Merge](https://git-merge.com)  Belgium  -  PASSED  -   Technical talks and hands-on workshops 
+30 [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com)  San Jose, USA  Can Apply  PASSED  -  Apple new technology launch events, Swift 
+31 [Agile On The Beach](https://agileonthebeach.com/)  Cornwall, United Kingdom  No  July 9-10, 2020  -  Technical talks and hands-on workshops 
 
 
 ## Data Science Conferences in 2019 and 2020
 
-| Conference |  Location | Date |
-|:--- |:--- |:--- |
-| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 | 
-| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 20 Apr - 23 Apr 2020 (Varies) |
-| [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
-| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 28 Oct- 8 Noc 2019 |
-| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 4-7 May 2020 |
-| [MLConf](http://mlconf.com) |  San Francisco, USA | 8 Nov 2019 |
-| [KDD](https://www.kdd.org/kdd2018/) |  London | 22-27 Aug 2020 |
-| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2020 |
-| [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
+ Conference   Location  Date 
+:--- :--- :--- 
+ [Predictive Analytics World](http://www.predictiveanalyticsworld.com)   Las Vegas, USA  May 31-June 4, 2020  
+ [Strata Data Conference](http://conferences.oreilly.com/strata)  USA, UK  20 Apr - 23 Apr 2020 (Varies) 
+ [Open Data Science Conference](https://www.odsc.com)   UK, USA  Varies 
+ [Big Data Analytics Tokyo](www.bigdatacon.jp)   Tokyo, Japan  28 Oct- 8 Noc 2019 
+ [IBM think 2019](https://www.ibm.com/events/think/index.html)   Las Vegas, USA  4-7 May 2020 
+ [MLConf](http://mlconf.com)   San Francisco, USA  8 Nov 2019 
+ [KDD](https://www.kdd.org/kdd2018/)   London  22-27 Aug 2020 
+ [AI Conf](https://conferences.oreilly.com/artificial-intelligence)   SanJose/Beijing/NY/London  Aug 2020 
+ [ICSESS](http://www.icsess.org)  Beijing, China  October 18-20, 2019 
 ---
 
 # 9. Top People to Follow
 
-|Id | Name | Category|
-|--|------ |---|
-|1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
-|2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
-|3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VSCode  |
-|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer, YouTuber |
-|6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
-|7 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|8 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
-|9 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
-|10 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
-|11 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
-|12 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
-|13 |[John Resig](https://twitter.com/jeresig) | Creator of jQuery |
-|14 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
-|15|[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
-|16 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
-|17 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
-|18 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
-|19 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile Advocate  |
-|20 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
-|21 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|22 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
-|23 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Distributed computation, Genetic algorithms, and computational science |
-|24 |[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
-|25 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
-|26 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
-|27 |[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | AI & ML |
-|28 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|29 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
-|30 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
-|31 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|32 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
-|33 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|34 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
-|35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
-|36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
-|37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+Id  Name  Category
+-------- ---
+1 [Aaron Gable](https://github.com/aarongable)  Google Chrome Developer (BR) 
+2 [Addy Osmani](https://github.com/addyosmani)  Web & Chrome 
+3 [Andrew NG](https://www.linkedin.com/in/andrewyng/)  AI & ML 
+4 [Benjamin Pasero](https://twitter.com/benjaminpasero)  Software engineer at Microsoft, VSCode  
+5 [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)  Web Developer, Programmer, YouTuber 
+6 [Daniel Shiffman](https://shiffman.net/)  Programmer / Former project lead with the [Processing Foundation](https://processing.org/) 
+7 [Evan You](https://twitter.com/youyuxi)  Creator of Vue.js 
+8 [Giovanni Bassi](https://github.com/giggio)  MVP Microsoft BR 
+9 [Guido van Rossum](https://gvanrossum.github.io/)  Python Creator 
+10 [Isaac Schlueter](https://twitter.com/izs)  npm Creator 
+11 [Jake Vanderplas](https://github.com/jakevdp)  Python Data Science 
+12 [Jen Simmons](https://twitter.com/jensimmons)  CSS expert, creator of Firefox Grid Inspector. 
+13 [John Resig](https://twitter.com/jeresig)  Creator of jQuery 
+14 [Joy Buolamwini](https://www.poetofcode.com/)  Artificial intelligence, Algorithmic Justice League 
+15[Kyle Simpson](https://twitter.com/getify)  Author of YDKJS 
+16 [Leonardo Maldonado](https://github.com/leonardomso)  Top 2 developerTrending (BR) 
+17 [Linus Torvalds](https://github.com/torvalds)  Linux Founder
+18 [Martin Fowler](https://twitter.com/martinfowler)  Software developer 
+19 [Mike Cohn](https://twitter.com/mikewcohn)  Scrum and Agile Advocate  
+20 [Mohamed Said](https://twitter.com/themsaid)  Works with Taylor Otwell on Laravel 
+21 [Paul Graham](http://www.paulgraham.com/)  Startup Expert, Founder of Y-Combinator 
+22 [Quincy Larson](https://twitter.com/ossia)  Teacher that started free code camp 
+23 [Rebecca Parsons](https://twitter.com/rebeccaparsons)  Distributed computation, Genetic algorithms, and computational science 
+24 [Richard Stallman](https://stallman.org/)  Founder of the GNU Project 
+25 [Ryan Dahl](https://github.com/ry)  Inventor of Node.js 
+26 [Sandi Metz](https://www.sandimetz.com/)  Software developer and author focused on writing flexible object-oriented code 
+27 [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)  AI & ML 
+28 [Tarry Singh](https://www.linkedin.com/in/tarrysingh/)  AI & ML 
+29 [Taylor Otwell](https://twitter.com/taylorotwell)  Creator of Laravel 
+30 [Uncle Bob Martin](https://twitter.com/unclebobmartin)  Software developer 
+31 [Valentin Shergin](http://twitter.com/shergin)  React Native Developer 
+32 [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/)  MEAN stack expert 
+33 [Vaughn Vernon](https://vaughnvernon.co/)  Domain Driven Design expert 
+34 [Victor Savkin](https://twitter.com/victorsavkin)  Angular Developer 
+35 [Vincent Boucher](https://www.linkedin.com/in/montrealai)  AI & ML 
+36 [Yann LeCun](https://www.facebook.com/yann.lecun)  VP & Chief AI Scientist at Facebook 
+37 [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz)  Ruby Creator 
 
 ---
 
 # 10. Top Websites to Follow
 
 1.   **Data Science**
-      - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
+      - [Data Science Courses: R & Python Analysis Tutorials  DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
@@ -975,82 +975,82 @@ subtitle: Hack, eat, sleep,Repeat;
 # 11. Top 50 YouTube Channels to Follow
 
 ## 11.1 Top 10 in Technology
-|Sr. No. | Channel | No. of Subscribers |
-| --- | ------------- | ----- |
-|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
-|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
-|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
-|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
-|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
-|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
-|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
-|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
-|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
-|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+Sr. No.  Channel  No. of Subscribers 
+ ---  -------------  ----- 
+1  [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about)  2.1M 
+2  [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about)  1.32M 
+3  [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about)  1.55M 
+4  [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about)  1.1M 
+5  [Computerphile](https://www.youtube.com/user/Computerphile/about)  1.47M 
+6  [sentdex](https://www.youtube.com/user/sentdex/about)  734K 
+7  [Nptel](https://www.youtube.com/user/nptelhrd/about)  1.57M 
+8  [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about)  1.63M 
+9  [NumberPhile](https://www.youtube.com/user/numberphile/about)  3.04M 
+10  [CppCon](https://www.youtube.com/user/CppCon/about)  62.9K 
 
 ---
 
 ## 11.2 Top 10 in Startup
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ------ |
-|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
-|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
-|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
-|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
-|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
-|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
-|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
-|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
-|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+Sr. No.  Channel  No. of Subscribers 
+ ---  --------------  ------ 
+1  [TED](https://www.youtube.com/user/TEDtalksDirector/about)  15M 
+2  [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about)  1.31M 
+3  [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about)  131K 
+4  [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about)  274K 
+5  [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed)  100K 
+6  [Tim Ferriss](https://www.youtube.com/user/masterlock77/about)  486K 
+7  [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about)  39.8K 
+8  [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about)  198K 
+9  [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about)  634K 
+10  [Startup Grind](https://www.youtube.com/user/StartupGrind/about)  45.1K 
 
 ---
 
 ## 11.3 Top 10 in Design
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
-|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
-|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
-|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
-|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
-|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
-|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
-|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
-|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
-|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+Sr. No.  Channel  No. of Subscribers 
+ ---  --------------  ----- 
+1  [tutvid](https://www.youtube.com/user/tutvid/about)  936K 
+2  [The Futur](https://www.youtube.com/user/TheSkoolRocks/about)  591K 
+3  [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about)  300K 
+4  [Will Paterson](https://www.youtube.com/user/breakdesignsco/about)  352K 
+5  [Skillshare](https://www.youtube.com/user/Skillshare/about)  189K 
+6  [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about)  191K 
+7  [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about)  157K 
+8  [Matt Borchert](https://www.youtube.com/user/ovenrude/about)  66K 
+9  [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about)  141K 
+10  [Mike Locke](https://www.youtube.com/user/mlwebco/about)  90.8K 
 
 ---
 
 ## 11.4 Top 10 in Business
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
-|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
-|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
-|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
-|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
-|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
-|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
-|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
-|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+Sr. No.  Channel  No. of Subscribers 
+ ---  --------------  ----- 
+1  [Business Insider](https://www.youtube.com/user/businessinsider/about)  2.09M 
+2  [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about)  2.33M 
+3  [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about)  512K 
+4  [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about)  898K 
+5  [Marie Forleo](https://www.youtube.com/user/marieforleo/about)  590K 
+6  [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about)  745K 
+7  [Grant Cardone](https://www.youtube.com/user/GrantCardone/about)  1.2M 
+8  [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about)  548K 
+9  [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about)  274K 
+10  [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about)  694K 
 
 ---
 
 ## 11.5 Top 10 in Finance
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
-|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
-|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
-|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
-|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
-|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
-|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
-|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
-|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
-|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+Sr. No.  Channel  No. of Subscribers 
+ ---  --------------  ----- 
+1  [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about)  413K 
+2  [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about)  354K 
+3  [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about)  40.6K 
+4  [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about)  712K 
+5  [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about)  21.8K 
+6  [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about)  471K 
+7  [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about)  348K 
+8  [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about)  267K 
+9  [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about)  59.2K 
+10  [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about)  66.4K 
 
 ---
 
@@ -1071,12 +1071,12 @@ subtitle: Hack, eat, sleep,Repeat;
 
 # 13. Coding Bootcamps
 
-|Id | Name | Track | Description | Country | 
-|--|------ |---| --- | ---- | 
-|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
-|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
-| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
-| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+Id  Name  Track  Description  Country  
+-------- --- ---  ----  
+1  [Lambda School](https://lambdaschool.com/)  FullStack, Data Science, Android, iOS  No Upfront Fees, Pay 17.5% of salary only when you get a job  USA 
+2  [SpringBoard](https://www.springboard.com/)  DataScience  2 Year experience as Software Dev, Only Pay if you get a Job  USA, India  
+ 3 [Pesto Tech](https://pesto.tech)  FullStack JavaScript  2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA  India
+ 4 [InterviewBit Academy](https://www.interviewbit.com/academy/)  Software Developer  No Experience Required, 6 month online trainging, Only Pay when you get a Job  India
 
 
 # 14. Miscellaneous Resources
@@ -1084,7 +1084,7 @@ subtitle: Hack, eat, sleep,Repeat;
 ## 14.1 Design Resources
 
 - **Youtube Channels & Playlists**
-    - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* 👶
+    - [Beginners Guide to Graphic Design  45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* 👶
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
