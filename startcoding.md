@@ -5,11 +5,9 @@ subtitle: Hack, eat, sleep,Repeat;
 ---
 
 
-### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 ![Image](img/list.png)
 
-*Image credits: Google*
 
 ## Table of Contents :clipboard:
 
