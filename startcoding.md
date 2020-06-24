@@ -1,8 +1,7 @@
-> -> -> -
+---
 layout: page
 title: StartCoding
-subtitle: Hack, eat, sleep,Repeat;
-> -> -> -
+---
 
 
 
