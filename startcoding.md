@@ -5,7 +5,8 @@ title: StartCoding
 
 
 
-![Image](img/wallp.jpg) 
+![Image](img/wallp.jpg)
+
   In this Page you will Find massive ressource list to get started with learning a new language , So if :   
 - You are a begginer look for the  👶 emoji. It highlights resources for  beginners.
 - You are Willing to spend some money to improve your skills look for   💲 emoji it indicates paid content.
@@ -49,14 +50,9 @@ title: StartCoding
      - [Hiring Challenges](#26-hiring-challenges)
 
 
-
 3.  [Open Source Programs](#4-open-source-programs)
 4.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
 5.  [Internship Portals](#6-internship-programs)
-6.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-7.  [Top People to Follow](#9-top-people-to-follow)
-8.  [Top Websites to Follow](#10-top-websites-to-follow)
-9.  [Bootcamps](#13-coding-bootcamps)
 
 
 
@@ -679,17 +675,17 @@ title: StartCoding
 
 # 4. Open Source Programs
 
- -[Google Summer of Code](https://summerofcode.withgoogle.com/) Google  
- -[Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global   
- -[GNOME internships](https://wiki.gnome.org/Internships)  GNOME  
- -[Radare Summer of Code](https://rada.re/rsoc) 
- -[DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE
- -[BOSS](http://pennapps.com/) Coding Blocks, INDIA 
- -[GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies
- -[Season of KDE](https://season.kde.org)  KDE  Prizes 
- -[The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  
- -[Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation   
--[Outreachy](https://www.outreachy.org/) 
+ - [Google Summer of Code](https://summerofcode.withgoogle.com/) Google  
+ - [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global   
+ - [GNOME internships](https://wiki.gnome.org/Internships)  GNOME  
+ - [Radare Summer of Code](https://rada.re/rsoc) 
+ - [DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE
+ - [BOSS](http://pennapps.com/) Coding Blocks, INDIA 
+ - [GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies
+ - [Season of KDE](https://season.kde.org)  KDE  Prizes 
+ - [The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  
+ - [Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation   
+- [Outreachy](https://www.outreachy.org/) 
 
 
 
@@ -709,18 +705,8 @@ title: StartCoding
 - [Indeed](https://www.indeed.ca/)
 
 
-
-# 14. Miscellaneous Resources
-
-## 14.1 Design Resources
-
-- **Youtube Channels & Playlists**
-    - [Beginners Guide to Graphic Design  45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* 👶
-    - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
-    - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
-    - [DesignCourse](https://www.youtube.com/user/DesignCourse)
-    
-## 14.2 Podcasts
+  
+## 7. Podcasts
 
 - **Technology**
     - Code Newbie
