@@ -68,14 +68,14 @@ title: StartCoding
 - [Python For Everybody](https://www.coursera.org/specializations/python)
   - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) Recommended
 - [The New Boston Python  Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 👶
 - [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
+- [Python Class By Google](https://developers.google.com/edu/python/)  Recommended
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
@@ -653,7 +653,7 @@ title: StartCoding
  - [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
  - [Invision Free app for Education](https://www.invisionapp.com/education-signup)
  - [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
-## Scholarships :runner:
+## Scholarships 
 - [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
 - [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 - [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
