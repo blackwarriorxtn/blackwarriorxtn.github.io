@@ -713,20 +713,6 @@ title: StartCoding
 
 
 
-
-# 10. Top Websites to Follow
-
-1.   **Data Science**
-      - [Data Science Courses: R & Python Analysis Tutorials  DataCamp](http://www.datacamp.com/courses)
-      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
-      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
-      - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
-      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
-      - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
-
-
-
-
 # 14. Miscellaneous Resources
 
 ## 14.1 Design Resources
