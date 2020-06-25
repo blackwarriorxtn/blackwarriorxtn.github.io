@@ -564,132 +564,118 @@ title: StartCoding
 
 
 
-##  2.3  Hackathon Search Portals :dart:
-s.no Name   Location  Category 
---- ------ --- --- 
-1 [HackSociety](https://hacksociety.tech/attend/) India  ALL 
-2 [DevPost](https://devpost.com/hackathons)  Online & On-site  ALL 
-3 [HackerEarth](https://hackerearth.com/)  Online & On-site  ALL 
-4 [Hackathon.io](http://www.hackathon.io/events)  Global  ALL 
-5 [TechGIG - Search Online Competitions]() Online & On-Site ALL 
-6 [Analytical Vidya](https://www.analyticsvidhya.com/)  Online & On-Site  Data Science  
-7 [Hackathon.com](https://www.hackathon.com/) [Online & On-site]  Global  ALL 
-8 [Dare2compete](https://dare2compete.com/bites)  Online & On-site  India  ALL 
+##  2.3  Hackathon Search Portals 
+
+
+- [HackSociety](https://hacksociety.tech/attend/) India  ALL 
+- [DevPost](https://devpost.com/hackathons)  Online & On-site  ALL 
+- [HackerEarth](https://hackerearth.com/)  Online & On-site  ALL 
+- [Hackathon.io](http://www.hackathon.io/events)  Global  ALL 
+- [TechGIG - Search Online Competitions]() Online & On-Site ALL 
+- [Analytical Vidya](https://www.analyticsvidhya.com/)  Online & On-Site  Data Science  
+- [Hackathon.com](https://www.hackathon.com/) [Online & On-site]  Global  ALL 
+- [Dare2compete](https://dare2compete.com/bites)  Online & On-site  India  ALL 
 ## 2.4 Events 🎫
 
-> **Check out these events for your region**
 
-1. Google Developer Day - Organized by GDG
-2. Google IO extended - Organized by GDG
-3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Bangalore ]
-4. NVIDIA Developer Connect [ Global ]
-5. AWS meetups [ Global ]
-6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
-8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+- Google Developer Day - Organized by GDG
+- Google IO extended - Organized by GDG
+- Google Solve for India
+- Paytm Build for India Workshops [ Delhi, Bangalore ]
+- NVIDIA Developer Connect [ Global ]
+- AWS meetups [ Global ]
+- BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+- Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
-ID Name   Location 
--------- ----------
-1 [Eureka - IITB](http://www.ecell.in/eureka/) Mumbai, INDIA 
-2 [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)   Online & USA 
-3  [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/)  Redwood City, California 
-4  [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018)  New York 
-5  [Y Combinator's Startup School](https://www.startupschool.org/)  Online 
-6  [School of AI](https://picampus-school.com/programme/school-of-ai/)  Rome, Italy 
-7  [European Innovation Academy](https://www.inacademy.eu/)  Portugal, China 
-8  [Startup Weekend - DTU](http://www.ecelldtu.in/)  Delhi, India
-9  [Watson School Incubator](https://watson.is/semester-incubator-application/)  USA 
-10  [DevMountain](https://devmountain.com/)  UT, AZ, TX 
-11  [Product School](https://www.productschool.com)  Online, USA, & Toronto 
-12  [HackerYou](https://hackeryou.com/)  Toronto 
-13  [BrainStation](https://brainstation.io/)  Online, USA, & Canada 
-14  [Lighthouse Labs](https://lighthouselabs.ca/)  Canada 
-15  [RED Academy](https://redacademy.com)  Canada 
-16  [Flatiron School](https://flatironschool)  Online, USA 
+ 
+
+- [Eureka - IITB](http://www.ecell.in/eureka/) Mumbai, INDIA 
+- [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)   Online & USA 
+- [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/)  Redwood City, California 
+- [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018)  New York 
+- [Y Combinator's Startup School](https://www.startupschool.org/)  Online 
+- [School of AI](https://picampus-school.com/programme/school-of-ai/)  Rome, Italy 
+- [European Innovation Academy](https://www.inacademy.eu/)  Portugal, China 
+- [Startup Weekend - DTU](http://www.ecelldtu.in/)  Delhi, India
+- [Watson School Incubator](https://watson.is/semester-incubator-application/)  USA 
+-  [DevMountain](https://devmountain.com/)  UT, AZ, TX 
+-  [Product School](https://www.productschool.com)  Online, USA, & Toronto 
+-  [HackerYou](https://hackeryou.com/)  Toronto 
+-  [BrainStation](https://brainstation.io/)  Online, USA, & Canada 
+-  [Lighthouse Labs](https://lighthouselabs.ca/)  Canada 
+-  [RED Academy](https://redacademy.com)  Canada 
+-  [Flatiron School](https://flatironschool)  Online, USA 
 
 ## 2.6 Hiring Challenges
 
-ID Name   Location 
+ 
 -------- ----------
-1 [Google Kickstart](https://code.google.com/codejam/kickstart/) Online 
-2 [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)   Online 
-3 [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)   Online 
-4 [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)   Online 
+- [Google Kickstart](https://code.google.com/codejam/kickstart/) Online 
+- [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)   Online 
+- [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)   Online 
+- [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)   Online 
 
 ---
 
-# 3. Student Benefits and Programs :fire:
+# 3. Student Benefits and Programs 
 
-## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
-2. [GitHub Campus Experts](https://githubcampus.expert/)
-3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
-4. [Internshala Student Partner  -    ISP](https://internshala.com/)
-5. [Progate Student Ambassador](http://progate.com/)
-6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
-7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
-8. [HackerEarth Campus Ambassador](https://hackerearth.com)
-9. [HackerRank Campus Ambassador](https://hackerrank.com)
-10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
-11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
-12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-13. [Codechef Campus Ambassador](https://www.codechef.com/)
-14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
-15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
-16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+## Campus Ambassador Programs 
+- [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+- [GitHub Campus Experts](https://githubcampus.expert/)
+- [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
+- [Internshala Student Partner  -    ISP](https://internshala.com/)
+- [Progate Student Ambassador](http://progate.com/)
+- [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
+- [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
+- [HackerEarth Campus Ambassador](https://hackerearth.com)
+- [HackerRank Campus Ambassador](https://hackerrank.com)
+- [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+- [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+- [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+- [Codechef Campus Ambassador](https://www.codechef.com/)
+- [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
+- [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
+- [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
 
+## Student Benefits and Packs 
+-[GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 
-## Student Benefits and Packs :v:
-1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
-2. Microsoft students:
-   - [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
-   - [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
-   - [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
-   - [Free Microsoft Office 365 for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx)
-3. [JetBrains Students pack](https://www.jetbrains.com/student/)
-4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
-5. [Google Cloud](https://cloud.google.com/free/)
-6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-7. [Google Reskilling India Program  Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year  dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year  Znetlive](https://www.znetlive.com/student-web-hosting/)
-10. [Bitbucket Education](https://bitbucket.org/product/education)
-11. [Namecheap free .name Domain](https://nc.me/)
-12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
-13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
-14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
-
-## Student Fellowship Programs :v:
-1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
-1. [Teach for India Fellowship]()
-2. [Young India Fellowship]()
-3. [Urban Leaders Fellowship]()
-4. [Facebook fellowship Program - **Only For PHD Scholars**]()
-5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
-6. [Prime Minister’s Rural Fellowship]()
-7. [Azim Premji Foundation Fellowship Program]()
-8. [Stanford-ABC News Global Health and Media Fellowship]()
-
-
+- [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
+- [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
+- [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
+- [Free Microsoft Office 365 for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx)
+-[JetBrains Students pack](https://www.jetbrains.com/student/)
+-[AWS Educate](https://aws.amazon.com/education/awseducate/)
+-[Google Cloud](https://cloud.google.com/free/)
+-[Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+-[Google Reskilling India Program  Pluralsight](https://www.pluralsight.com/partners/google/)
+-[Free .tech domain for 1 year  dot tech Domains](https://get.tech/students)
+-[Free Web Hosting for 1 year  Znetlive](https://www.znetlive.com/student-web-hosting/)
+- [Bitbucket Education](https://bitbucket.org/product/education)
+- [Namecheap free .name Domain](https://nc.me/)
+- [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+- [Invision Free app for Education](https://www.invisionapp.com/education-signup)
+- [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
 ## Scholarships :runner:
-1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
-2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
-3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
-4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
-5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
-6. [Technology Scholarship Program - Udacity](https://www.udacity.com/bertelsmann-data-scholarships) Application deadline - **November 6th, 2019**
-7. [Goldman Sachs Global Scholarship and Mentorship Program](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) Applications are welcomed in December - January period.
-8. [Grace Hoppers Conference Program](https://ghc.anitab.org/2019-student-academic/scholarships/) Applications are opened in mid-January.
-9. [Facebook Grace Hopper Scholarship 2019](https://www.facebook.com/scholarcorner/posts/2323154047763329?comment_tracking=%7B%22tn%22%3A%22O%22%7D) Applications are opened in March - April before the registration for GHC starts.
-10. [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/#!?detail-content-tabby_activeEl=overview) Applications are opened in the period between May and August every year.
-11. [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) Applications are opened in June-July every year.
-12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
-13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
-14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
+- [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
+- [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
+- [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
+- [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+- [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
+- [Technology Scholarship Program - Udacity](https://www.udacity.com/bertelsmann-data-scholarships) Application deadline - **November 6th, 2019**
+- [Goldman Sachs Global Scholarship and Mentorship Program](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) Applications are welcomed in December - January period.
+- [Grace Hoppers Conference Program](https://ghc.anitab.org/2019-student-academic/scholarships/) Applications are opened in mid-January.
+- [Facebook Grace Hopper Scholarship 2019](https://www.facebook.com/scholarcorner/posts/2323154047763329?comment_tracking=%7B%22tn%22%3A%22O%22%7D) Applications are opened in March - April before the registration for GHC starts.
+- [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/#!?detail-content-tabby_activeEl=overview) Applications are opened in the period between May and August every year.
+- [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) Applications are opened in June-July every year.
+- [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
+- [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
+- [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
 
 
 ---
@@ -714,25 +700,16 @@ ID Name   Location
 
 # 6. Internship Programs
 
-## Internships
+> For summer internship, start looking at least 3-4 months in advance.
 
-1. [Cisco International Internship Program](https://www.myciip.com/)
-2. [Sakae Japan Internship Program: SJIP](https://japan-internships.com/)
-3. [Student Training in Engineering Program: Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
-4. [Summer Student Opportunities](https://home.cern/summer-student-programme)
-
-## Internship Portals
-
-> For summer internship, start looking at least 3-4 months in advance. #Tip
-
-1. [Angel List](https://angel.co)
-2. [Internshala](https://internshala.com)
-3. [Vettery](https://www.vettery.com/)
-4. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
-6. [Hackkar](https://hackkar.com/)
-7. [LetsIntern](https://www.letsintern.com)
-8. [Intern Supply](https://intern.supply/)
-9. [Indeed](https://www.indeed.ca/)
+- [Angel List](https://angel.co)
+- [Internshala](https://internshala.com)
+- [Vettery](https://www.vettery.com/)
+- [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
+- [Hackkar](https://hackkar.com/)
+- [LetsIntern](https://www.letsintern.com)
+- [Intern Supply](https://intern.supply/)
+- [Indeed](https://www.indeed.ca/)
 
 
 
