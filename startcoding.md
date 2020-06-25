@@ -582,7 +582,7 @@ title: StartCoding
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
-## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
+## 2.5 Startup Summits, Competitions and Bootcamps 
 
  
 
