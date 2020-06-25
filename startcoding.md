@@ -68,14 +68,14 @@ title: StartCoding
 - [Python For Everybody](https://www.coursera.org/specializations/python)
   - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) Recommended
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) ⭐
 - [The New Boston Python  Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 👶
 - [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Python Class By Google](https://developers.google.com/edu/python/)  Recommended
+- [Python Class By Google](https://developers.google.com/edu/python/)  ⭐
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
@@ -451,7 +451,7 @@ title: StartCoding
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git - Progate](https://progate.com/languages/git) - Recommended
+ - [Git - Progate](https://progate.com/languages/git) - ⭐
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 
