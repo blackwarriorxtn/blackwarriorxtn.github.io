@@ -48,30 +48,16 @@ title: StartCoding
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
-3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
-     - [Campus Ambassador Programs](#campus-ambassador-programs-v)
-     - [Student Benefits and Packs](#student-benefits-and-packs-v)
-     - [Student Fellowship Programs](#student-fellowship-programs-v)
-     - [Scholarships](#scholarships-runner)
 
-4.  [Open Source Programs](#4-open-source-programs)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [Internship Portals](#6-internship-programs)
-7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [Conferences for students](#8-conferences-bookmark_tabs)
-9.  [Top People to Follow](#9-top-people-to-follow)
-10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Top 50 YouTube Channels to Follow](#50-top-youtube-channels)
-     - [Top 10 in Technology](#111-top-10-in-technology)
-     - [Top 10 in Startup](#112-top-10-in-startup)
-     - [Top 10 in Design](#113-top-10-in-design)
-     - [To 10 in Business](#114-top-10-in-business)
-     - [Top 10 in Finance](#115-top-10-in-finance)
-12. [Additional Links](#12-additional-links-hamster)
-13. [Bootcamps](#13-coding-bootcamps)
-14. [Miscellaneous Resources](#14-miscellaneous-resources)
-     - [Design Resources](#141-design-resources)
-     - [Podcasts](#142-podcasts)
+
+3.  [Open Source Programs](#4-open-source-programs)
+4.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
+5.  [Internship Portals](#6-internship-programs)
+6.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
+7.  [Top People to Follow](#9-top-people-to-follow)
+8.  [Top Websites to Follow](#10-top-websites-to-follow)
+9.  [Bootcamps](#13-coding-bootcamps)
+
 
 
 
@@ -717,17 +703,17 @@ ID Name   Location
 
  Id Name  Organization Stipend/Incentives Timeline  Deadline 
 ------- ------ ------ 
-1 [Google Summer of Code](https://summerofcode.withgoogle.com/) Google YES - - 
-2 [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global  Yes-  - 
-4 [GNOME internships](https://wiki.gnome.org/Internships)  GNOME  YES  -  - 
-5 [Radare Summer of Code](https://rada.re/rsoc)  -  -   -  
-6 [DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE  -   -   - 
-7 [BOSS](http://pennapps.com/) Coding Blocks, INDIA YES -  - 
-8 [GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies  -  - 
-9 [Season of KDE](https://season.kde.org)  KDE  Prizes  -  - 
-10 [The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  Yes  - - 
- 11  [Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation  NO  -  - 
-12 [Outreachy](https://www.outreachy.org/)    Yes  - - 
+1 -[Google Summer of Code](https://summerofcode.withgoogle.com/) Google YES - - 
+2 -[Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global  Yes-  - 
+4 -[GNOME internships](https://wiki.gnome.org/Internships)  GNOME  YES  -  - 
+5 -[Radare Summer of Code](https://rada.re/rsoc)  -  -   -  
+6 -[DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE  -   -   - 
+7 -[BOSS](http://pennapps.com/) Coding Blocks, INDIA YES -  - 
+8 -[GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies  -  - 
+9 -[Season of KDE](https://season.kde.org)  KDE  Prizes  -  - 
+10 -[The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  Yes  - - 
+ 11  -[Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation  NO  -  - 
+12 -[Outreachy](https://www.outreachy.org/)    Yes  - - 
 
 
 
