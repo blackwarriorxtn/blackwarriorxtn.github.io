@@ -541,29 +541,26 @@ title: StartCoding
 - [Go by Example](https://gobyexample.com/)
 
 ---
-
+ 
 
 # 2. Hackathons and Events
 
 
 ##  2.1 Competitions 🏆
-
-ID Name   Location 
--------- ----------
-1  [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/)  Online & Onsite 
-2  [ACM - ICPC](https://www.codechef.com/icpc/2020)  Online & On-Site 
-3  [CodersBit](https://www.interviewbit.com/codersbit/)  Online 
-4  [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  Online 
-5  [Code Gladiators](https://www.techgig.com/codegladiators)  Online & Onsite 
-6  [E-Yantra](http://www.e-yantra.org/)  Online & Onsite 
-7  [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)  - 
-8  [Shell Ideas360](https://bit.ly/14iPmYn) Online & Onsite 
-9  [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt)  Online 
-10 [Doodle 4 Google](https://doodles.google.com/d4g/)  Online 
-11 [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/)  -  
-12 [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) Online & Onsite 
-13 [Quest Ingenium](https://www.questingenium.com/)  -  
-14 [ROBOCON](http://aburobocon2019.mnb.mn/en)  Onsite 
+- [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/)  Online & Onsite 
+- [ACM - ICPC](https://www.codechef.com/icpc/2020)  Online & On-Site 
+- [CodersBit](https://www.interviewbit.com/codersbit/)  Online 
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  Online 
+- [Code Gladiators](https://www.techgig.com/codegladiators)  Online & Onsite 
+- [E-Yantra](http://www.e-yantra.org/)  Online & Onsite 
+- [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)  - 
+- [Shell Ideas360](https://bit.ly/14iPmYn) Online & Onsite 
+- [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt)  Online 
+- [Doodle 4 Google](https://doodles.google.com/d4g/)  Online 
+- [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/)  -  
+- [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) Online & Onsite 
+- [Quest Ingenium](https://www.questingenium.com/)  -  
+- [ROBOCON](http://aburobocon2019.mnb.mn/en)  Onsite 
 
 
 
@@ -699,41 +696,21 @@ ID Name   Location
 
 # 4. Open Source Programs
 
-
-
- Id Name  Organization Stipend/Incentives Timeline  Deadline 
-------- ------ ------ 
-1 -[Google Summer of Code](https://summerofcode.withgoogle.com/) Google YES - - 
-2 -[Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global  Yes-  - 
-4 -[GNOME internships](https://wiki.gnome.org/Internships)  GNOME  YES  -  - 
-5 -[Radare Summer of Code](https://rada.re/rsoc)  -  -   -  
-6 -[DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE  -   -   - 
-7 -[BOSS](http://pennapps.com/) Coding Blocks, INDIA YES -  - 
-8 -[GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies  -  - 
-9 -[Season of KDE](https://season.kde.org)  KDE  Prizes  -  - 
-10 -[The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  Yes  - - 
- 11  -[Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation  NO  -  - 
-12 -[Outreachy](https://www.outreachy.org/)    Yes  - - 
+ -[Google Summer of Code](https://summerofcode.withgoogle.com/) Google  
+ -[Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) Global   
+ -[GNOME internships](https://wiki.gnome.org/Internships)  GNOME  
+ -[Radare Summer of Code](https://rada.re/rsoc) 
+ -[DataONE Summer Internship Program](https://www.dataone.org/internships)  DataONE
+ -[BOSS](http://pennapps.com/) Coding Blocks, INDIA 
+ -[GirlScript Summer of Code](https://gssoc.tech/)  -  Prizes & Goodies
+ -[Season of KDE](https://season.kde.org)  KDE  Prizes 
+ -[The X.Org Endless Vacation of Code](https://season.kde.org)  X.Org  
+ -[Free Software Foundation internships](https://www.fsf.org/volunteer/internships)  Free Software Foundation   
+-[Outreachy](https://www.outreachy.org/) 
 
 
 
 
----
-
-# 5. Startup Programs and Incubators :mag_right:
-
-Id Name  Organization
-------- 
-1 [Amity Innovation Incubator](http://www.amity.edu/)  Amity University 
-2 [Atal Incubation Centre](http://www.aim.gov.in/)  Government 
-3 [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/)  Google 
-4 [Startup Village](https://www.sv.co/)  SV.CO 
-5 [T HUB ](https://t-hub.co/)  - 
-6 [Atal Innovation challenge](http://aim.gov.in/overview.php)  NITI, AYOG 
-7 [Global Entrepreneurship Bootcamp](https://gebootcamp.com/)  Malaysia 
-8 [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/)  IMD/UFRN, Brazil 
-
----
 
 # 6. Internship Programs
 
@@ -757,43 +734,7 @@ Id Name  Organization
 8. [Intern Supply](https://intern.supply/)
 9. [Indeed](https://www.indeed.ca/)
 
----
 
-# 7. Developer Clubs and Meetups
-
-> ## **Take a moment to search for these clubs on Google and Facebook in your city.**
-
-> ## **Check **Meetup.com** for more events in your locality**
-Id             Name Of The Community          Area    
----:---------------------------------------::--------:
-1  [Google Developer Group](https://developers.google.com/programs/community/gdg/)All States
-2  [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)Delhi and Banglore 
-3  [Mozilla Campus Clubs](https://campus.mozilla.community/)-
-4  [Facebook Developer Circle](https://developers.facebook.com/developercircles)Delhi
-5  [Women Tech Makers](https://womentechmakers.com)-
-6  [Women Who Code](https://www.womenwhocode.com/)-
-7  [Women In Tech](https://www.womenintechnology.org/)-
-8  [Developers Student Club by Google](https://developers.google.com/training/programs/)All Colleges accross India
-9  [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)-
-10 [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)Delhi and Bangalore
-11 [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)Delhi
-12 [Toastmaster International](https://www.toastmasters.org)-
-13 [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)-
-14 [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)-
-15 [Forloop Africa](https://forloop.africa)-
-16 [Women in Tech (Finland)](https://womenintech.fi/)-
-17 [HelsinkiJS](https://meetabit.com/communities/helsinkijs)-
-18 [100 Days of Code](https://www.100daysofcode.com/connect/)Online
-19 [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)-
-20 [Girl Develop It](https://www.girldevelopit.com/chapters)-
-21 [R-Ladies](https://rladies.org/)-
-22 [India Linux Users Group Delhi](https://www.linuxdelhi.org/)Delhi
-23 [PyLadies](https://www.pyladies.com/)Delhi
-24 [PyData Delhi](https://pydata.org/delhi2018/)Delhi
-25 [LinuxChix](https://www.linuxchix.org/)Delhi
-26 [Owasp](https://www.owasp.org/index.php/Jaipur)Jaipur
-27 [ACM Student Chapter](https://acm.org/)All Colleges Worldwide
----
 
 
 # 10. Top Websites to Follow
