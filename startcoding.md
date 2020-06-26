@@ -50,9 +50,10 @@ title: StartCoding
      - [Hiring Challenges](#26-hiring-challenges)
 
 
-3.  [Open Source Programs](#4-open-source-programs)
-4.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-5.  [Internship Portals](#6-internship-programs)
+3.  [Student Benefits and programs](#student-benefits-and-packs)
+4.  [Open Source Programs](#4-open-source-programs)
+5.  [Internship Programs](#4-internship-programs)
+6.  [Podcasts](#5-Podcasts)
 
 
 
@@ -690,7 +691,7 @@ title: StartCoding
 
 
 
-# 6. Internship Programs
+# 5. Internship Portals
 
 > For summer internship, start looking at least 3-4 months in advance.
 
@@ -705,7 +706,7 @@ title: StartCoding
 
 
   
-## 7. Podcasts
+## 6. Podcasts
 
 - **Technology**
     - Code Newbie
