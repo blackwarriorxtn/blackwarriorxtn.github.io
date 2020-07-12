@@ -15,7 +15,8 @@ but hey its not about the path its about the journey and it's fun so far
 I used to play some video games in my free time (i still play on weekends tho or when i feel like it XD) but now im more into playing hacking competitions (capture the flag) 
 
 Currently playing with my Ctf Team <a class="Tsami" href="https://ctftime.org/team/75334">Tsami</a>
-but for the Music  :  I dig dark country, rock and Synthwave any other genre is welcome as well
+
+and for the Music  :  I dig dark country, rock and Synthwave but any other genre is welcome as well
 
 
 ## Skills  ?  :
