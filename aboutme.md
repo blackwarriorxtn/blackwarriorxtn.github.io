@@ -35,6 +35,7 @@ Basic Understanding of Game/Level Design (Unity and Unreal Engine)
 ```
 
 ## QA ?   :
+```
 $EDITOR :  Neovim & VScode with Vim keybindings
 Operating system :  I use Both Systems Debian & Windows 10
 Favorite language for web systems : Python 3
