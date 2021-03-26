@@ -54,4 +54,4 @@ To follow the path:
 
   become the master <b class="blinking_cursor">_ </b>
 <center><a href='http://www.catb.org/hacker-emblem/'>
-<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a> <center/>
+<img src='https://github.com/blackwarriorxtn/blackwarriorxtn.github.io/blob/master/img/glider.png?raw=true' alt='hacker emblem' /></a> <center/>
